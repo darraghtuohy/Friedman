@@ -1,0 +1,11 @@
+Package: Friedman
+Title: Tools for Cleaning and Visualizing Data Sets
+Version: 0.0.0.9000
+Authors@R: 
+    person("Darragh", "Tuohy", email = "darraghtuohy@usf.edu", role = c("aut", "cre"))
+Description: This package serves a number of functions that are all incredibly
+    useful for cleaning and visualizing data sets.
+Depends: R (>= 3.1.2)
+Imports: ggplot2, dplyr
+License: CC0
+Encoding: UTF-8
